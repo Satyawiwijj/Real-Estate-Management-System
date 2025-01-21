@@ -11,6 +11,10 @@ This system helps manage real estate property records efficiently. Key features 
 - User-friendly interaction through a CLI (Command Line Interface).
 
 ---
+📂 File Structure
+main.py: Core application logic.
+db_config.sql: SQL script to create and set up the database schema.
+requirements.txt: List of dependencies for the project.
 
 ## 🔧 Technologies Used
 - **Python**: Core programming logic.
